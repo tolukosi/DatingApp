@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\API",
+    "\\API\\Data",
     "\\API\\Entities"
   ],
-  "SelectedNode": "\\API\\Entities\\AppUser.cs",
+  "SelectedNode": "\\API\\Data\\DataContext.cs",
   "PreviewInSolutionExplorer": false
 }
