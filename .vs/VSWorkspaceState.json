@@ -3,8 +3,11 @@
     "",
     "\\API",
     "\\API\\Data",
-    "\\API\\Entities"
+    "\\API\\Entities",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app"
   ],
-  "SelectedNode": "\\API\\Data\\DataContext.cs",
+  "SelectedNode": "\\client\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
