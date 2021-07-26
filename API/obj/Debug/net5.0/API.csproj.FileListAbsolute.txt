@@ -123,3 +123,6 @@ C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\obj\Debug\net5.0
 C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
