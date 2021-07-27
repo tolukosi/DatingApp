@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\olaolu\\Documents\\Visual Studio 2019\\quiz\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\olaolu\\Documents\\Visual Studio 2019\\quiz\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\olaolu\\Documents\\Visual Studio 2019\\quiz\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Admin\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\DatingApp\\API\\obj\\",
+        "projectPath": "C:\\Users\\olaolu\\Documents\\Visual Studio 2019\\quiz\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\olaolu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaolu\\Documents\\Visual Studio 2019\\quiz\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olaolu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,6 +45,10 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[5.0.8, )"
             },
