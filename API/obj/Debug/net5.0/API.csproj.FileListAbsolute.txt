@@ -126,3 +126,6 @@ C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\obj\Debug\net5.0
 C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Admin\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\olaolu\Documents\Visual Studio 2019\quiz\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
